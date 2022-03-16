@@ -1,0 +1,10 @@
+.currentMessages {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid cyan;
+    width: 50vw;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+
